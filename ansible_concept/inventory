@@ -1,0 +1,8 @@
+#Target servers
+[dbservers]
+172.31.43.62
+
+[webservers]
+172.31.40.168
+
+
